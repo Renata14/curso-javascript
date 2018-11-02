@@ -4,7 +4,7 @@
     "description": "",
     "main": "index.js",
     "scripts": {
-        "test": "mocha ejercicios/test/**/*.spec.js"
+        "test": "mocha --colors test/**/*.spec.js"
     },
     "keywords": [],
     "author": "",
